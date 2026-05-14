@@ -1,0 +1,6 @@
+Word: GRAPE           Result: LOST Time: 55s
+Word: MELON           Result: WON  Time: 107s
+[LOSE] œ“¿’ | 154s
+[WIN ] GRAPE | 105s
+[WIN ]  ¬≤“ ¿ | 37s
+[WIN ] MELON | 73s

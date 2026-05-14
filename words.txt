@@ -1,0 +1,4 @@
+ENG_EASY: APPLE,BANANA,ORANGE,CHERRY,LEMON,MELON,GRAPE,PEACH,MANGO,PLUM
+ENG_HARD: AWKWARD,BIZARRE,EMERALD,HANDLEBAR,WONDERS,PATHOLOGIST,RHYTHM,LYMPH
+UKR_EASY: КНИГА,МІСТО,РІЧКА,ВЕСНА,КВІТКА,СОНЦЕ,ПТАХ,ХМАРА,ВІКНО,ЗЕМЛЯ
+UKR_HARD: ДИСТАНЦІЯ,ФІЛОСОФІЯ,ЛАБОРАТОРІЯ,ПАНОРАМА,СИМЕТРІЯ,УНІВЕРСИТЕТ
